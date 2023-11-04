@@ -1,0 +1,28 @@
+header {
+  background-image: url('../../images/logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 10px;
+  margin: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  height: 80px;
+  border-radius: 10px;
+  display: block;
+  border: 2px solid #2622a2;
+}
+
+h1,
+h2 {
+  margin: 0px;
+  padding: 0px;
+  margin-left: 180px;
+}
+
+h1 {
+  color: #d47b7b;
+}
+
+h2 {
+  color: #2622a2;
+}
